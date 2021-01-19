@@ -38,6 +38,6 @@ the message, "Hi, how's it going?", and then prompt the user to type a reply bel
 To test the project:
 
 1.  Run the test
-2.  Check the results
-3.
-4.  New line to cause conflict
+2.  Check the result
+3.  Finish
+4.  Analyze results of test
